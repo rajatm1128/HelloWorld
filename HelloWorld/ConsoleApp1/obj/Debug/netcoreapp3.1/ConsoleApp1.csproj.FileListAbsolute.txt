@@ -1,0 +1,13 @@
+F:\HelloWorld\HelloWorld\HelloWorld\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+F:\HelloWorld\HelloWorld\HelloWorld\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+F:\HelloWorld\HelloWorld\HelloWorld\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+F:\HelloWorld\HelloWorld\HelloWorld\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+F:\HelloWorld\HelloWorld\HelloWorld\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\HelloWorld\HelloWorld\HelloWorld\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\HelloWorld\HelloWorld\HelloWorld\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+F:\HelloWorld\HelloWorld\HelloWorld\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\HelloWorld\HelloWorld\HelloWorld\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\HelloWorld\HelloWorld\HelloWorld\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\HelloWorld\HelloWorld\HelloWorld\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\HelloWorld\HelloWorld\HelloWorld\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\HelloWorld\HelloWorld\HelloWorld\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
